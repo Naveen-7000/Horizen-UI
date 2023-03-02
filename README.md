@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-[<img alt="Horizon UI - Tailwind CSS React Admin dashboard template" src="https://i.ibb.co/1zhBQ2J/horizon-ui-tailwind-2.png" />](https://github.com/horizon-ui/horizon-tailwind-react)
+[<img alt="Horizon UI - Tailwind CSS React Admin dashboard template" src="https://i.ibb.co/1zhBQ2J/horizon-ui-tailwind-2.png" />]
 
 <p>&nbsp;</p>
 
